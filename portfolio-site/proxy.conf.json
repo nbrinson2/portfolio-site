@@ -1,0 +1,7 @@
+{
+  "/*": {
+    "target": "https://nbrinson-portfolio-site.s3.us-east-1.amazonaws.com",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
